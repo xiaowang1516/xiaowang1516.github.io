@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Publications
 
 You can use the [editor on GitHub](https://github.com/xiaowang1516/xiaowang1516.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
